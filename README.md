@@ -1,2 +1,3 @@
 # Random-CPP-Files
-A small collection of CPP files I mess around with.
+
+My collection of the most useless cpp files that I have made.
