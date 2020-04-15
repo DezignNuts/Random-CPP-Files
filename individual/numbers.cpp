@@ -27,7 +27,7 @@ int math2(int x, int y) { //This Function does multiplication
 
 int main() {
 	cout << "What is your name?\n";
-	cin >> myUser; //Get user-inputted name
+	getline(cin, myName); //Get user-inputted name
 	cout << "What is your favorite number?\n";
 	cin >> myNum; //gets favorite number
 	cout << "How old are you?\n";
