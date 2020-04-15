@@ -2,6 +2,13 @@
 #include<string>;
 #include<iomanip>;
 
+/*
+	File Created by DezignNuts
+	https://Github.com/DezignNuts
+	
+	A simple calculator tool that take your name, two numbers, and an operator gives you an answer!
+*/
+
 using namespace std;
 
 string userName = "";
